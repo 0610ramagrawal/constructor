@@ -10,6 +10,7 @@ public class Employee {
    }  
    void info(){
         System.out.println("Id: "+empId+" Name: "+empName);
+	//print 
    }  
 	   
    public static void main(String args[]){  
